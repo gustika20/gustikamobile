@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">NamitraShop</string>
+    <string name="hello_blank_fragment">Hello blankfragment</string>
+    <string name="this_fragment"></string>
+    <string name="search">Search</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Tentang</string>
+    <string name="search_hint">Masukkan kata</string>
+    <string name="name">Mahasiswa</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Set Hoodie 1-2th</item>
+        <item>Kaos T Shirt Tangan Pendek</item>
+        <item>Set Anak Laki-Laki 5-9th</item>
+        <item>Set Import 1-4th</item>
+        <item>Dress import baby 2th</item>
+        <item>Celana Anak 5-8th</item>
+        <item>Set Rok Premium 3-6th</item>
+        <item>Dress Shanghai 4th</item>
+        <item>Coath 6 tahun</item>
+        <item>Atasan Import 1-3th</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Rp 101.385</item>
+        <item>Rp 55.000</item>
+        <item>Rp 95.000</item>
+        <item>Rp 50.000</item>
+        <item>Rp 75.000</item>
+        <item>Rp 65.000</item>
+        <item>Rp 140.000</item>
+        <item>Rp 104.355</item>
+        <item>Rp 140.355</item>
+        <item>Rp 26.000 - 38.000</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/adil</item>
+        <item>@drawable/romi</item>
+        <item>@drawable/fatih</item>
+        <item>@drawable/humaira</item>
+        <item>@drawable/nindi</item>
+        <item>@drawable/celana</item>
+        <item>@drawable/rok</item>
+        <item>@drawable/seksot</item>
+        <item>@drawable/coat</item>
+        <item>@drawable/atasan</item>
+    </integer-array>
+
+</resources>
